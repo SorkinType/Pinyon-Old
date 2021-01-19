@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>1768</integer>
+	<key>capHeight</key>
+	<integer>1388</integer>
+	<key>copyright</key>
+	<string>Copyright (c) 2021 by Sorkin Type Co with Reserved Font Name Pinyon Script.This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL</string>
+	<key>descender</key>
+	<integer>-787</integer>
+	<key>familyName</key>
+	<string>Pinyon Script</string>
+	<key>openTypeHeadCreated</key>
+	<string>2021/01/19 12:57:10</string>
+	<key>openTypeHheaAscender</key>
+	<integer>1768</integer>
+	<key>openTypeHheaDescender</key>
+	<integer>-787</integer>
+	<key>openTypeHheaLineGap</key>
+	<integer>0</integer>
+	<key>openTypeNameDescription</key>
+	<string>Pinyon Script is a romantic round hand script style font. It also sports swashes which are confident and showy somehow giving the type a feeling suggestive of the American west. Perhaps this is why, despite refinement and aristocratic style; Pinyon Script manages to feel so friendly . Nicole Script uses a high stroke contrast and is very slanted making it most suitable for use at larger sizes.</string>
+	<key>openTypeNameDesigner</key>
+	<string>Nicole Fally</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>sorkintype.com</string>
+	<key>openTypeNameLicense</key>
+	<string>Copyright (c) 2010 by Sorkin Type Co, with Reserved Font Name Pinyon. ÃŠLicenced under the SIL Open Font License, Version 1.1, available with a FAQ athttp://scripts.sil.org/OFL</string>
+	<key>openTypeNameLicenseURL</key>
+	<string>http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&amp;id=OFL</string>
+	<key>openTypeNameManufacturer</key>
+	<string>Sorkin Type Co.</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>sorkintype.com</string>
+	<key>openTypeNameUniqueID</key>
+	<string>NicoleFally: Pinyon Script: 2011</string>
+	<key>openTypeNameVersion</key>
+	<string>Version 1.006</string>
+	<key>openTypeOS2Panose</key>
+	<array>
+		<integer>2</integer>
+		<integer>1</integer>
+		<integer>5</integer>
+		<integer>1</integer>
+		<integer>8</integer>
+		<integer>1</integer>
+		<integer>1</integer>
+		<integer>13</integer>
+		<integer>0</integer>
+		<integer>2</integer>
+	</array>
+	<key>openTypeOS2StrikeoutPosition</key>
+	<integer>458</integer>
+	<key>openTypeOS2StrikeoutSize</key>
+	<integer>57</integer>
+	<key>openTypeOS2Type</key>
+	<array>
+	</array>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>1768</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-787</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>0</integer>
+	<key>openTypeOS2VendorID</key>
+	<string>STC</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>1768</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>787</integer>
+	<key>postscriptBlueFuzz</key>
+	<integer>1</integer>
+	<key>postscriptBlueScale</key>
+	<real>0.04</real>
+	<key>postscriptBlueShift</key>
+	<integer>7</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-787</integer>
+		<integer>-757</integer>
+		<integer>-43</integer>
+		<integer>0</integer>
+		<integer>719</integer>
+		<integer>749</integer>
+		<integer>1446</integer>
+		<integer>1476</integer>
+	</array>
+	<key>postscriptFontName</key>
+	<string>PinyonScript</string>
+	<key>postscriptFullName</key>
+	<string>Pinyon Script</string>
+	<key>postscriptOtherBlues</key>
+	<array>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer>24</integer>
+		<integer>30</integer>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<integer>28</integer>
+		<integer>53</integer>
+	</array>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-105</integer>
+	<key>postscriptUnderlineThickness</key>
+	<integer>44</integer>
+	<key>styleMapFamilyName</key>
+	<string>Pinyon Script</string>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>trademark</key>
+	<string>Pinyon Scrpt is a trademark of Sorkin Type Co.</string>
+	<key>unitsPerEm</key>
+	<integer>2048</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>6</integer>
+	<key>xHeight</key>
+	<integer>760</integer>
+</dict>
+</plist>
